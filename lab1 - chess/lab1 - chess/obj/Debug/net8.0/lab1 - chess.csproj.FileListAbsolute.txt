@@ -1,0 +1,14 @@
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.AssemblyInfoInputs.cache
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.AssemblyInfo.cs
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\bin\Debug\net8.0\lab1 - chess.exe
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\bin\Debug\net8.0\lab1 - chess.deps.json
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\bin\Debug\net8.0\lab1 - chess.runtimeconfig.json
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\bin\Debug\net8.0\lab1 - chess.dll
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\bin\Debug\net8.0\lab1 - chess.pdb
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.dll
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\refint\lab1 - chess.dll
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.pdb
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\lab1 - chess.genruntimeconfig.cache
+C:\Users\Vanya\source\repos\lab1 - chess\lab1 - chess\obj\Debug\net8.0\ref\lab1 - chess.dll

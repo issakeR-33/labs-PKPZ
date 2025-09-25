@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanya\\source\\repos\\lab1 - chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7C301-6BCE-4B5E-B030-956D24D8B426}|lab1 - chess\\lab1 - chess.csproj|c:\\users\\vanya\\source\\repos\\lab1 - chess\\lab1 - chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF7C301-6BCE-4B5E-B030-956D24D8B426}|lab1 - chess\\lab1 - chess.csproj|solutionrelative:lab1 - chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanya\\source\\repos\\lab1 - chess\\lab1 - chess\\Program.cs",
+              "RelativeDocumentMoniker": "lab1 - chess\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanya\\source\\repos\\lab1 - chess\\lab1 - chess\\Program.cs",
+              "RelativeToolTip": "lab1 - chess\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA8wC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T21:10:37.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

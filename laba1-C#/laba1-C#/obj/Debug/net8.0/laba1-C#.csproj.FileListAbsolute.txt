@@ -1,0 +1,14 @@
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.AssemblyInfoInputs.cache
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.AssemblyInfo.cs
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\bin\Debug\net8.0\laba1-C#.exe
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\bin\Debug\net8.0\laba1-C#.deps.json
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\bin\Debug\net8.0\laba1-C#.runtimeconfig.json
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\bin\Debug\net8.0\laba1-C#.dll
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\bin\Debug\net8.0\laba1-C#.pdb
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.dll
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\refint\laba1-C#.dll
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.pdb
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\laba1-C#.genruntimeconfig.cache
+C:\Users\Vanya\source\repos\laba1-C#\laba1-C#\obj\Debug\net8.0\ref\laba1-C#.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab1 - chess/1.0.0": {
+        "runtime": {
+          "lab1 - chess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1 - chess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
