@@ -9,17 +9,18 @@
 
 
 def process_array(arr):
-    """Обробка масиву згідно умови"""
+    #copy arr 
     arr = arr.copy()
 
-    # множина тих абсолютних значень, для яких є і +, і -
+    #for +x , -x 
     pairs = set()
 
     for x in arr:
         if x > 0 and -x in arr:
             pairs.add(x)
 
-    # тепер змінюємо знаки тільки для чисел, які в цих парах
+
+    # change simbols 
     for i in range(len(arr)):
         if abs(arr[i]) in pairs:
             arr[i] = -arr[i]

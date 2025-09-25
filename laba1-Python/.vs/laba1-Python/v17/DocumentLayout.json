@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vanya\\source\\repos\\laba1-Python\\",
+  "WorkspaceRootPath": "C:\\CHNU\\PKPZ\\laba1-Python\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8130658-F2C9-41C4-BD8C-3E26FC844CD4}|laba1-Python\\laba1-Python.pyproj|C:\\Users\\Vanya\\source\\repos\\laba1-Python\\laba1-Python\\laba1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C8130658-F2C9-41C4-BD8C-3E26FC844CD4}|laba1-Python\\laba1-Python.pyproj|solutionrelative:laba1-Python\\laba1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|laba1-Python||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|laba1-Python||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C8130658-F2C9-41C4-BD8C-3E26FC844CD4}|laba1-Python\\laba1-Python.pyproj|C:\\CHNU\\PKPZ\\laba1-Python\\laba1-Python\\laba1-Python.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30",
+      "RelativeMoniker": "D:0:0:{C8130658-F2C9-41C4-BD8C-3E26FC844CD4}|laba1-Python\\laba1-Python.pyproj|solutionrelative:laba1-Python\\laba1-Python.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,26 +30,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "laba1_Python.py",
-              "DocumentMoniker": "C:\\Users\\Vanya\\source\\repos\\laba1-Python\\laba1-Python\\laba1_Python.py",
-              "RelativeDocumentMoniker": "laba1-Python\\laba1_Python.py",
-              "ToolTip": "C:\\Users\\Vanya\\source\\repos\\laba1-Python\\laba1-Python\\laba1_Python.py",
-              "RelativeToolTip": "laba1-Python\\laba1_Python.py",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-21T20:42:11.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "laba1-Python",
-              "DocumentMoniker": "C:\\Users\\Vanya\\source\\repos\\laba1-Python\\laba1-Python\\laba1-Python.pyproj",
+              "DocumentMoniker": "C:\\CHNU\\PKPZ\\laba1-Python\\laba1-Python\\laba1-Python.pyproj",
               "RelativeDocumentMoniker": "laba1-Python\\laba1-Python.pyproj",
-              "ToolTip": "C:\\Users\\Vanya\\source\\repos\\laba1-Python\\laba1-Python\\laba1-Python.pyproj",
+              "ToolTip": "C:\\CHNU\\PKPZ\\laba1-Python\\laba1-Python\\laba1-Python.pyproj",
               "RelativeToolTip": "laba1-Python\\laba1-Python.pyproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-21T20:42:01.407Z"
+              "WhenOpened": "2025-09-21T20:42:01.407Z",
+              "EditorCaption": ""
             }
           ]
         }

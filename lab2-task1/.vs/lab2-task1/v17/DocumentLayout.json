@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vanya\\source\\repos\\lab2-task1\\",
+  "WorkspaceRootPath": "C:\\CHNU\\PKPZ\\lab2-task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2905E24E-DA4C-424F-863B-16812313086E}|lab2-task1\\lab2-task1.pyproj|C:\\Users\\Vanya\\source\\repos\\lab2-task1\\lab2-task1\\lab2_task1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{2905E24E-DA4C-424F-863B-16812313086E}|lab2-task1\\lab2-task1.pyproj|C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2905E24E-DA4C-424F-863B-16812313086E}|lab2-task1\\lab2-task1.pyproj|solutionrelative:lab2-task1\\lab2_task1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +25,18 @@
               "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab2_task1.py",
-              "DocumentMoniker": "C:\\Users\\Vanya\\source\\repos\\lab2-task1\\lab2-task1\\lab2_task1.py",
+              "DocumentMoniker": "C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py",
               "RelativeDocumentMoniker": "lab2-task1\\lab2_task1.py",
-              "ToolTip": "C:\\Users\\Vanya\\source\\repos\\lab2-task1\\lab2-task1\\lab2_task1.py",
+              "ToolTip": "C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py",
               "RelativeToolTip": "lab2-task1\\lab2_task1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-25T20:06:47.397Z",
               "EditorCaption": ""
