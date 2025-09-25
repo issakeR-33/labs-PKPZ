@@ -1,0 +1,15 @@
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\bin\Debug\net8.0\laba2-task2.exe
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\bin\Debug\net8.0\laba2-task2.deps.json
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\bin\Debug\net8.0\laba2-task2.runtimeconfig.json
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\bin\Debug\net8.0\laba2-task2.dll
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\bin\Debug\net8.0\laba2-task2.pdb
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.AssemblyInfoInputs.cache
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.AssemblyInfo.cs
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.csproj.CoreCompileInputs.cache
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.sourcelink.json
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.dll
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\refint\laba2-task2.dll
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.pdb
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\laba2-task2.genruntimeconfig.cache
+C:\CHNU\PKPZ\laba2-task2\laba2-task2\obj\Debug\net8.0\ref\laba2-task2.dll
