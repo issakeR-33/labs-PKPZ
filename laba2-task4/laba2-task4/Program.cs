@@ -6,27 +6,26 @@ class Program
     {
         Random rnd = new Random();
 
-        int n; // кількість рядків
+        int n;
         Console.Write("Enter number of rows: ");
         n = int.Parse(Console.ReadLine());
 
-        // Задаємо інтервал
+        // interval
         int minVal = -10;
         int maxVal = 10;
 
-        // 1. Створення зубчастого масиву
+        //  зубчастий масив
         int[][] jaggedArray = new int[n][];
         for (int i = 0; i < n; i++)
         {
-            int rowLength = rnd.Next(3, 8); // випадкова довжина рядка від 3 до 7
+            int rowLength = rnd.Next(3, 8); 
             jaggedArray[i] = new int[rowLength];
             for (int j = 0; j < rowLength; j++)
             {
-                jaggedArray[i][j] = rnd.Next(-20, 21); // заповнюємо числами від -20 до 20
+                jaggedArray[i][j] = rnd.Next(-20, 21); 
             }
         }
 
-        // Вивід початкового масиву
         Console.WriteLine("\nInitial jagged array:");
         for (int i = 0; i < n; i++)
         {
@@ -35,7 +34,7 @@ class Program
             Console.WriteLine();
         }
 
-        // 2. Обчислення сум елементів, що не потрапляють в інтервал
+        // не потрапл.
         int[] sumArray = new int[n];
         for (int i = 0; i < n; i++)
         {
@@ -48,7 +47,6 @@ class Program
             sumArray[i] = sum;
         }
 
-        // Вивід результату
         Console.WriteLine("\nSum of elements outside interval for each row:");
         for (int i = 0; i < n; i++)
         {
