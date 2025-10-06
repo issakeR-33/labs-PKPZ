@@ -1,6 +1,6 @@
 ﻿def input_array():
-    """Введення масиву з клавіатури"""
-    n = int(input("Введіть розмірність масиву: "))
+    "Розмір масиву"
+    n = int(input("Розмір масиву: "))
     arr = []
     for i in range(n):
         element = int(input(f"arr[{i}] = "))
@@ -8,8 +8,7 @@
     return arr
 
 
-def process_array(arr):
-    #copy arr 
+def process_array(arr): 
     arr = arr.copy()
 
     #for +x , -x 
@@ -29,7 +28,7 @@ def process_array(arr):
 
 
 def output_array(arr):
-    """Виведення масиву"""
+    "Виведення масиву"
     print("Результуючий масив:")
     for el in arr:
         print(el, end=" ")

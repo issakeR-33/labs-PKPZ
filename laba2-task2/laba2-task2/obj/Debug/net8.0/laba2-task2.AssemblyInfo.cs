@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laba2-task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3148866885ddf29cba2db109d103ce1af953ed0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b07e307d0b2db4c527414a2b1399a3bc5ca1b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("laba2-task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laba2-task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

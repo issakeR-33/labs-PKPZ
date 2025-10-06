@@ -1,0 +1,17 @@
+C:\CHNU\PKPZ\GUI interface\GUI interface\bin\Debug\net8.0-windows\GUI interface.exe
+C:\CHNU\PKPZ\GUI interface\GUI interface\bin\Debug\net8.0-windows\GUI interface.deps.json
+C:\CHNU\PKPZ\GUI interface\GUI interface\bin\Debug\net8.0-windows\GUI interface.runtimeconfig.json
+C:\CHNU\PKPZ\GUI interface\GUI interface\bin\Debug\net8.0-windows\GUI interface.dll
+C:\CHNU\PKPZ\GUI interface\GUI interface\bin\Debug\net8.0-windows\GUI interface.pdb
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI_interface.Form1.resources
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.csproj.GenerateResource.cache
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.AssemblyInfoInputs.cache
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.AssemblyInfo.cs
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.csproj.CoreCompileInputs.cache
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.sourcelink.json
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.dll
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\refint\GUI interface.dll
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.pdb
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\GUI interface.genruntimeconfig.cache
+C:\CHNU\PKPZ\GUI interface\GUI interface\obj\Debug\net8.0-windows\ref\GUI interface.dll

@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,18 +25,14 @@
               "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab2_task1.py",
               "DocumentMoniker": "C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py",
               "RelativeDocumentMoniker": "lab2-task1\\lab2_task1.py",
-              "ToolTip": "C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py",
-              "RelativeToolTip": "lab2-task1\\lab2_task1.py",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\CHNU\\PKPZ\\lab2-task1\\lab2-task1\\lab2_task1.py*",
+              "RelativeToolTip": "lab2-task1\\lab2_task1.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-25T20:06:47.397Z",
               "EditorCaption": ""
